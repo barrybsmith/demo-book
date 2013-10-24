@@ -2,33 +2,38 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
   <head><title>03 NewtonsLaws</title></head>
   <body><h1>Different Kinds of Forces</h1>
-<div class="teachers-guide" data-unknown="true"><div class="title"></div>
+<div class="teachers-guide" data-unknown="true"><div class="title" id="61a9ea79-452c-7139-5359-ff9dd4bfd543"></div>
 <p>Notes</p>
 
 <p>The following topics are covered in this chapter.</p>
-<ul data-class="ListBulleted"><li>
+<div class="equation"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
+  <msup>
+    <mi>x</mi>
+    <mn>2</mn>
+  </msup>
+  <mo>+</mo>
+  <msup>
+    <mi>y</mi>
+    <mn>2</mn>
+  </msup>
+</mrow><annotation encoding="math/tex">x^2 + y^2</annotation></semantics></math></div><ul data-class="ListBulleted"><li>
 
 Define weight Fg as the gravitational force the Earth exerts on any
-object on or near its surface
-</li>
-<li>
+object on or near its surface</li><li>
+<br></li><li>
 Calculate weight using the expression Fg = mg where g is the
 accleration due to gravity. Near the surface of the earth the value is
 approximately 9,8 m.s-2
-</li>
-<li>
+</li><li>
 Define normal force, FN, as the perpendicular force exerted by a
 surface on an object in contact with it
-</li>
-<li>
+</li><li>
 Define frictional force due to a surface, Ff, as the force that opposes
 the motion of an object and acts parallel to the surface with which the
 object is in contact
-</li>
-<li>
+</li><li>
 Explain what is meant by the maximum static friction
-</li>
-<li>
+</li><li>
 Calculate the value of the maximum static frictional forces for objects
 at rest on horizontal and inclined planes using:
 <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow>
@@ -51,13 +56,11 @@ at rest on horizontal and inclined planes using:
 where <math xmlns="http://www.w3.org/1998/Math/MathML"><semantics>
   <mi>μ<!-- μ --></mi>
 <annotation encoding="math/tex">\mu</annotation></semantics></math> is the coefficient of static friction
-</li>
-<li>
+</li><li>
 Distinguish between static and kinetic friction forces
-</li>
-</ul><figcaption></figcaption></div><h2>Section title</h2>
+</li></ul><figcaption></figcaption></div><h2>Section title</h2>
 <h1>Force Diagrams, Free Body Diagrams</h1>
-<div class="teachers-guide" data-unknown="true"><div class="title"></div>
+<div class="teachers-guide" data-unknown="true"><div class="title" id="3b0c4789-b4d9-84e2-079c-03cac53a1835"></div>
 <p>Notes</p>
 
 <p>The following topics are covered in this chapter.</p>
@@ -86,7 +89,7 @@ y-direction
 </li>
 </ul><figcaption></figcaption></div><h2>Section title</h2>
 <h1>Newton's First, Second and Third Laws</h1>
-<div class="teachers-guide" data-unknown="true"><div class="title"></div>
+<div class="teachers-guide" data-unknown="true"><div class="title" id="a47bcae0-3734-360b-ba40-bda21141ef5e"></div>
 <p>Notes</p>
 
 <p>The following topics are covered in this chapter.</p>
