@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifer="uid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="uid"/>
+    <dc:title>La Biblia Hispana</dc:title>
+  </metadata>
+  <manifest><item href="la-biblia-hispana-aecb53d4-1c30-4ad0-9073-c6a01f4894f4-nav.html" id="la-biblia-hispana-aecb53d4-1c30-4ad0-9073-c6a01f4894f4-nav.html" media-type="application/xhtml+xml" properties="nav"/></manifest>
+  <spine/>
+</package>
